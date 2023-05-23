@@ -1,2 +1,2 @@
 # Alura-NewsLetter
-Projeto realizado pelo TailWind
+Projeto realizado com o TailWind
