@@ -1,2 +1,2 @@
-# Alura-NewsLetter
-Projeto realizado com o TailWind
+# Linguagem R - Curso Formação em Ciência de dados
+Projeto realizado com o colab
